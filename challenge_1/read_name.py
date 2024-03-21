@@ -1,3 +1,3 @@
 name = input('How can I call you? ')
 
-print('Hi '+ name + ', how are you today?')
+print('Hi {}, how are you today?'.format(name))
