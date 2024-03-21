@@ -1,4 +1,4 @@
-# Python Course by Curso em Vídeo / # Curso de Python pelo Curso em Vídeo
+# Python Course by Curso em Vídeo / Curso de Python pelo Curso em Vídeo
 
 This README is part of a series of challenges set by the teacher to reinforce the knowledge taught in each class.
 
